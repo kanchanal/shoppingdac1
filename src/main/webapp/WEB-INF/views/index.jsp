@@ -66,7 +66,7 @@
   <div class="row">
     <div class="col-md-4">
       <div class="thumbnail">
-        <a href="model1.jsp" target="_blank">
+        <a href="model1" target="_blank">
           <img src="resources\image\ring1.jpg" href="model1.jsp" alt="Lights" style="width:100%">
           <div class="caption">
             <p>Model 1:  price.</p>

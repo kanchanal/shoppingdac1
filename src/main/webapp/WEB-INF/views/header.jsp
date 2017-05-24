@@ -60,14 +60,14 @@
 			<form class="navbar-form navbar-right" role="search" method="get" id="searchform" action="controller1" style="max-height:100px;">
 				<div class="form-group" style="max-height:100px;size: landscape;" >
 				<p>
-        <a href="registration.jsp" class="btn btn-info btn-lg">
+        <a href="registration" class="btn btn-info btn-lg">
           <span class="glyphicon glyphicon-user"></span> sign up 
         </a>
       </p> 
     
      
       <p>
-        <a href="login.jsp" class="btn btn-info btn-lg">
+        <a href="login" class="btn btn-info btn-lg">
           <span class="glyphicon glyphicon-log-in"></span> Log in
         </a>
       </p></div>

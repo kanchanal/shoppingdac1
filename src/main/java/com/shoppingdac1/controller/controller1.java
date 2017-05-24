@@ -19,7 +19,7 @@ public class controller1 {
 		    return mv;
 		}
 		
-		/*@RequestMapping(value={"/registration","/"}) 
+		@RequestMapping("/registration") 
 		public ModelAndView entry3() {
 
 		    ModelAndView mv = new ModelAndView("registration");
@@ -27,7 +27,7 @@ public class controller1 {
 		    return mv;
 		}
 
-		@RequestMapping(value={"/login","/"}) 
+		@RequestMapping(value={"/login"}) 
 		public ModelAndView entry2() {
 
 		    ModelAndView mv = new ModelAndView("login");
@@ -36,12 +36,11 @@ public class controller1 {
 		}
 
 		
-		@RequestMapping(value={"/model1","/"}) 
+		@RequestMapping(value={"/model1"}) 
 		public ModelAndView entry1() {
 
 		    ModelAndView mv = new ModelAndView("model");
 		   // mv.addObject("message","good good go");
 		    return mv;
 		}
-*/
 }
